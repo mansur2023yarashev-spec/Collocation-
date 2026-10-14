@@ -1,0 +1,6 @@
+{
+  "name": "Alpha",
+  "description": "Collocations va so'z birikmalari (Verb, Noun, Adjective) o'rganish ilovasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
